@@ -9,7 +9,6 @@ Prompted me to learn a bit more about the company and found the github repositor
 Link: [StatsBomb OpenData Github](https://github.com/statsbomb/open-data)
 
 I have been an Arsenal fan for longtime and naturally I chose to find the data that took me back to long lost glory days.
-Created an LSTM Binary Sequence to Sequence model prediction that attempts at taking a previous match week results to predict either a win or a draw.
-
+So far I created an LSTM Binary Sequence to Sequence model prediction that attempts at taking a previous match week results to predict either a win or a draw.
 
 ![](./images/arsenal-invincibles.jpg)
