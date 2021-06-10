@@ -1,0 +1,7 @@
+config3 
+Accuracy: 0.5714285714285714  
+Missed Classes: 0.4285714285714286 
+TPR: 1.0  
+FPR: 1.0  
+F-1 Score: 0.7272727272727273  
+Precision: 0.5714285714285714  
